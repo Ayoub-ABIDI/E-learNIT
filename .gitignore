@@ -1,0 +1,45 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+.venv/
+myvenv/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# IDEs
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# dotenv file with secrets
+.env
+
+# PyTorch / Transformers cache
+*.pt
+*.pth
+
+
+# Large files
+dataset/
+chroma_db/
+chroma_db_augmented/
+*.avi
+*.mp4
+*.mov
+*.mkv

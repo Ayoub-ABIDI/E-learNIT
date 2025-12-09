@@ -1,0 +1,26 @@
+# E-learNIT Backend Requirements
+
+# Web Framework
+flask==3.0.0
+flask-cors==4.0.0
+
+# Environment Variables
+python-dotenv==1.0.0
+
+# Computer Vision
+opencv-python==4.8.1.78
+pillow==10.1.0
+
+# Machine Learning
+transformers==4.35.2
+torch==2.1.1
+chromadb==0.4.18
+
+# LLM APIs
+groq==0.4.1
+
+# Optional: HuggingFace (if using that provider)
+huggingface-hub==0.19.4
+
+# Utilities
+numpy==1.24.3
