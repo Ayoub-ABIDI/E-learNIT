@@ -1,4 +1,4 @@
-<img width="1152" height="491" alt="Capture d&#39;écran 2025-12-09 223732" src="https://github.com/user-attachments/assets/8caa03c2-5688-457f-87ed-89277dabdc16" /><img width="461" height="422" alt="Capture d&#39;écran 2025-12-09 223704" src="https://github.com/user-attachments/assets/1c87a734-1aef-4ba8-83d2-a07b635d6439" /># E-learNIT: AI-Powered Tunisian Sign Language Translator
+ #E-learNIT: AI-Powered Tunisian Sign Language Translator
 
 <div align="center">
 
@@ -506,7 +506,8 @@ python backend_api.py
 <img width="461" height="422" alt="Capture d&#39;écran 2025-12-09 223704" src="https://github.com/user-attachments/assets/2c03b475-a646-4b4f-b26c-a0e865e76a12" />
 <img width="797" height="451" alt="Capture d&#39;écran 2025-12-09 223741" src="https://github.com/user-attachments/assets/658a48b9-997f-4470-b422-22d153b00b9f" />
 <img width="764" height="556" alt="Capture d&#39;écran 2025-12-09 223748" src="https://github.com/user-attachments/assets/44fca104-c354-455d-a7bc-9d48fac11eab" />
-
+<img width="1152" height="491" alt="Capture d&#39;écran 2025-12-09 223732" src="https://github.com/user-attachments/assets/8caa03c2-5688-457f-87ed-89277dabdc16" />
+<img width="461" height="422" alt="Capture d&#39;écran 2025-12-09 223704" src="https://github.com/user-attachments/assets/1c87a734-1aef-4ba8-83d2-a07b635d6439" />
 
 
 
