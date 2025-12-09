@@ -241,6 +241,17 @@ We introduce a **Retrieval-Augmented Generation (RAG)** approach that combines:
 
 ---
 
+## 📦 Dataset
+
+Due to size constraints, the Tunisian Sign Language dataset is hosted separately.
+
+**Download**: 
+
+After downloading:
+1. Extract to project root
+2. Ensure folder structure: `dataset/`
+3. Run backend: `python backend_api.py`
+
 ## 🔄 System Workflow
 
 ### End-to-End Process
