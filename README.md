@@ -1,4 +1,4 @@
-# 🤟 E-learNIT: AI-Powered Tunisian Sign Language Translator
+<img width="1152" height="491" alt="Capture d&#39;écran 2025-12-09 223732" src="https://github.com/user-attachments/assets/8caa03c2-5688-457f-87ed-89277dabdc16" /><img width="461" height="422" alt="Capture d&#39;écran 2025-12-09 223704" src="https://github.com/user-attachments/assets/1c87a734-1aef-4ba8-83d2-a07b635d6439" /># E-learNIT: AI-Powered Tunisian Sign Language Translator
 
 <div align="center">
 
@@ -10,13 +10,13 @@
 [![Python](https://img.shields.io/badge/python-3.8+-blue.svg?style=for-the-badge&logo=python)](https://www.python.org/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg?style=for-the-badge)](LICENSE)
 
-[🎥 Demo Video](#demo) • [📖 Documentation](#documentation) • [🚀 Quick Start](#quick-start) • [🏗️ Architecture](#architecture)
+[ Demo Video](#demo) • [ Documentation](#documentation) • [ Quick Start](#quick-start) • [ Architecture](#architecture)
 
 </div>
 
 ---
 
-## 📌 Table of Contents
+## Table of Contents
 
 - [Problem Statement](#-problem-statement)
 - [Our Solution](#-our-solution)
@@ -32,7 +32,7 @@
 
 ---
 
-## 🎯 Problem Statement
+## Problem Statement
 
 ### The Challenge
 
@@ -40,11 +40,11 @@ In Tunisia, **over 250,000 deaf individuals** face significant barriers in acces
 
 | Challenge | Impact |
 |-----------|--------|
-| 🚫 **No real-time translation** | Deaf students cannot participate in live discussions |
-| 📚 **Limited accessibility tools** | Existing tools don't support Tunisian Sign Language (TSL) |
-| 💬 **Communication barriers** | Unable to ask questions or contribute during virtual classes |
-| 🌍 **Language isolation** | Tunisian Sign Language differs from international standards |
-| 🎓 **Educational inequality** | 70% lower graduation rates compared to hearing peers |
+|  **No real-time translation** | Deaf students cannot participate in live discussions |
+|  **Limited accessibility tools** | Existing tools don't support Tunisian Sign Language (TSL) |
+|  **Communication barriers** | Unable to ask questions or contribute during virtual classes |
+|  **Language isolation** | Tunisian Sign Language differs from international standards |
+|  **Educational inequality** | 70% lower graduation rates compared to hearing peers |
 
 ### Our Target Users
 
@@ -94,7 +94,7 @@ In Tunisia, **over 250,000 deaf individuals** face significant barriers in acces
 
 ---
 
-## 🧠 Innovation: RAG vs Classical CV
+## Innovation: RAG vs Classical CV
 
 ### Why Traditional Computer Vision Falls Short
 
@@ -149,7 +149,7 @@ We introduce a **Retrieval-Augmented Generation (RAG)** approach that combines:
 
 ---
 
-## 🏗️ Technical Architecture
+## Technical Architecture
 
 ### System Components
 
@@ -241,7 +241,7 @@ We introduce a **Retrieval-Augmented Generation (RAG)** approach that combines:
 
 ---
 
-## 📦 Dataset
+##  Dataset
 
 Due to size constraints, the Tunisian Sign Language dataset is hosted separately.
 
@@ -252,7 +252,7 @@ After downloading:
 2. Ensure folder structure: `dataset/`
 3. Run backend: `python backend_api.py`
 
-## 🔄 System Workflow
+## System Workflow
 
 ### End-to-End Process
 
@@ -385,7 +385,12 @@ After downloading:
 
 ---
 
-## 🚀 Installation & Setup
+## Installation & Setup
+
+**Extract the Vector Database**
+Extract the file:
+
+chroma_db_augmented.tar.gz
 
 ### Prerequisites
 
@@ -475,7 +480,7 @@ python backend_api.py
 
 **✅ Expected Output:**
 ```
-🚀 E-learNIT Sign Language API Server v2.1
+ E-learNIT Sign Language API Server v2.1
    IMPROVED: Better phrase construction with context
 ======================================================================
 📡 Server running at: http://localhost:5001
@@ -496,10 +501,19 @@ python backend_api.py
 4. Click **"Load unpacked"**
 5. Select the extension folder (contains `manifest.json`)
 6. Extension icon appears in toolbar ✅
+<img width="1910" height="587" alt="Capture d&#39;écran 2025-12-09 223637" src="https://github.com/user-attachments/assets/982bae15-0e53-4829-8811-ec841b48beb9" />
+<img width="496" height="311" alt="Capture d&#39;écran 2025-12-09 223656" src="https://github.com/user-attachments/assets/048bc286-ceb0-40d0-8f90-912c17ad80b3" />
+<img width="461" height="422" alt="Capture d&#39;écran 2025-12-09 223704" src="https://github.com/user-attachments/assets/2c03b475-a646-4b4f-b26c-a0e865e76a12" />
+<img width="797" height="451" alt="Capture d&#39;écran 2025-12-09 223741" src="https://github.com/user-attachments/assets/658a48b9-997f-4470-b422-22d153b00b9f" />
+<img width="764" height="556" alt="Capture d&#39;écran 2025-12-09 223748" src="https://github.com/user-attachments/assets/44fca104-c354-455d-a7bc-9d48fac11eab" />
+
+
+
+
 
 ---
 
-## 📖 Usage Guide
+## Usage Guide
 
 ### Quick Start
 
