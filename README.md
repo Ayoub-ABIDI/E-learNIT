@@ -1,4 +1,4 @@
- #E-learNIT: AI-Powered Tunisian Sign Language Translator
+# E-learNIT: AI-Powered Tunisian Sign Language Translator
 
 <div align="center">
 
