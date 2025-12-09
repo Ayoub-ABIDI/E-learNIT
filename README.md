@@ -495,20 +495,42 @@ python backend_api.py
 
 ### Step 7: Install Chrome Extension
 
-1. Open Chrome browser
-2. Navigate to `chrome://extensions/`
-3. Enable **"Developer mode"** (toggle in top-right)
-4. Click **"Load unpacked"**
-5. Select the extension folder (contains `manifest.json`)
-6. Extension icon appears in toolbar ✅
-<img width="1910" height="587" alt="Capture d&#39;écran 2025-12-09 223637" src="https://github.com/user-attachments/assets/982bae15-0e53-4829-8811-ec841b48beb9" />
-<img width="496" height="311" alt="Capture d&#39;écran 2025-12-09 223656" src="https://github.com/user-attachments/assets/048bc286-ceb0-40d0-8f90-912c17ad80b3" />
-<img width="461" height="422" alt="Capture d&#39;écran 2025-12-09 223704" src="https://github.com/user-attachments/assets/2c03b475-a646-4b4f-b26c-a0e865e76a12" />
-<img width="797" height="451" alt="Capture d&#39;écran 2025-12-09 223741" src="https://github.com/user-attachments/assets/658a48b9-997f-4470-b422-22d153b00b9f" />
-<img width="764" height="556" alt="Capture d&#39;écran 2025-12-09 223748" src="https://github.com/user-attachments/assets/44fca104-c354-455d-a7bc-9d48fac11eab" />
-<img width="1152" height="491" alt="Capture d&#39;écran 2025-12-09 223732" src="https://github.com/user-attachments/assets/8caa03c2-5688-457f-87ed-89277dabdc16" />
-<img width="461" height="422" alt="Capture d&#39;écran 2025-12-09 223704" src="https://github.com/user-attachments/assets/1c87a734-1aef-4ba8-83d2-a07b635d6439" />
+**1. Open Chrome browser and navigate to extensions**
+   - Type `chrome://extensions/` in the address bar
 
+<img width="1910" alt="1-chrome-extensions-page" src="https://github.com/user-attachments/assets/982bae15-0e53-4829-8811-ec841b48beb9" />
+
+**2. Enable Developer mode**
+   - Toggle the **"Developer mode"** switch in the top-right corner
+
+<img width="496" alt="2-enable-developer-mode" src="https://github.com/user-attachments/assets/048bc286-ceb0-40d0-8f90-912c17ad80b3" />
+
+**3. Click "Load unpacked"**
+   - Click the **"Load unpacked"** button that appears
+
+<img width="461" alt="3-load-unpacked-button" src="https://github.com/user-attachments/assets/2c03b475-a646-4b4f-b26c-a0e865e76a12" />
+
+**4. Select the extension folder**
+   - Navigate to your E-learNIT project folder
+   - Select the `extension` folder (contains `manifest.json`)
+
+<img width="797" alt="4-select-extension-folder" src="https://github.com/user-attachments/assets/658a48b9-997f-4470-b422-22d153b00b9f" />
+
+**5. Extension loaded successfully**
+   - E-learNIT extension appears in your extensions list
+
+<img width="764" alt="5-extension-loaded" src="https://github.com/user-attachments/assets/44fca104-c354-455d-a7bc-9d48fac11eab" />
+
+**6. Pin extension to toolbar**
+   - Click the puzzle icon in Chrome toolbar
+   - Pin E-learNIT for easy access
+
+<img width="1152" alt="6-pin-extension-toolbar" src="https://github.com/user-attachments/assets/8caa03c2-5688-457f-87ed-89277dabdc16" />
+
+**7. Extension icon appears in toolbar ✅**
+   - Click the E-learNIT icon to start using it
+
+<img width="461" alt="7-extension-ready" src="https://github.com/user-attachments/assets/1c87a734-1aef-4ba8-83d2-a07b635d6439" />
 
 
 
